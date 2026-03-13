@@ -1,0 +1,4 @@
+sentiment,total_trades,average_pnl,total_volume
+Fear,316,624.351062056962,432671.33
+Greed,363,57.6460419338843,1094549.73860239
+Neutral,8,0.0,900.0
